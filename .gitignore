@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# Local properties
+local.properties
+
+# IDE files
+*.iml
+.idea/
+
+# Mac
+.DS_Store
+
+# Build artifacts
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.hprof
+
+# Native build
+.cxx/
+.externalNativeBuild/
